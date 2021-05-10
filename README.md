@@ -1,3 +1,4 @@
+
 # Election_Analysis
 Performing analysis to audit a recent local congressional election in Colorado.
 
@@ -22,4 +23,11 @@ Based on the "election_results.csv" file provided the results of the election au
 	* Raymon Anthony Doane: 3.1% of the total vote (11,606 votes) 
 * Diana DeGette was the winner of the election with 73.8% of the votes (272,892 votes)
 
+![Election_Results](https://user-images.githubusercontent.com/82549092/117600619-47650180-b11a-11eb-93bd-a27cc68f542c.png)
+
 **Election Audit Summary**
+The script provided can be used as a quick way to tally election running counts and final results. In addition, the script can be used to double check hand-counting to ensure the results align within an allowable difference.
+
+Two ways this script can be modified are:
+1. Save aggregated results in a flat table format to ensure that the results can be easily compared to previous and future elections.
+2. Use matplotlib and add additional demographic detail to the data to allow candidates to easily visualize results to understand which areas/groups they should be targeting in future elections. 
