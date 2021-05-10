@@ -3,6 +3,7 @@
 Performing analysis to audit a recent local congressional election in Colorado.
 
 **Overview of the Election Audit**
+
 The purpose of this analysis audit is to:
 1. Determine a list of candidates and counties that voted.
 2. Calculate the total number and percentage of votes received by eaach candidate and cast per county.
