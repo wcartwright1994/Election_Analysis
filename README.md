@@ -11,6 +11,7 @@ The purpose of this analysis audit is to:
 4. Determine the winner of the election based on which candidate had that largest number of votes.
 
 **Election Audit Results**
+
 Based on the "election_results.csv" file provided the results of the election audit are as follows:
 * 369,711 votes were cast
 * County Results include:
@@ -27,6 +28,7 @@ Based on the "election_results.csv" file provided the results of the election au
 ![Election_Results](https://user-images.githubusercontent.com/82549092/117600619-47650180-b11a-11eb-93bd-a27cc68f542c.png)
 
 **Election Audit Summary**
+
 The script provided can be used as a quick way to tally election running counts and final results. In addition, the script can be used to double check hand-counting to ensure the results align within an allowable difference.
 
 Two ways this script can be modified are:
